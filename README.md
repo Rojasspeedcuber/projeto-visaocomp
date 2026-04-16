@@ -1,5 +1,7 @@
 # 🎮 Body Motion Game - Jogo Controlado por Visão Computacional
 
+### Equipe: Henrique Rojas e Henrique Guerra
+
 Jogo de desviar de obstáculos controlado inteiramente pelos movimentos do corpo, capturados através da webcam usando visão computacional.
 
 ## 🎯 Objetivo
